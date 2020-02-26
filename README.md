@@ -13,6 +13,6 @@ student ID: 20609975
 To run main.py use:
 
 ```
-python main.py data/in.txt data/parameters.json
+python main.py data/in.txt data/param.json
 
 ```
